@@ -1,0 +1,26 @@
+{
+  "baseline": {
+    "accuracy": 7.6,
+    "faithfulness": 8.8
+  },
+  "full_agent": {
+    "accuracy": 8.0,
+    "faithfulness": 9.0
+  },
+  "no_planner": {
+    "accuracy": 7.6,
+    "faithfulness": 8.8
+  },
+  "no_reflector": {
+    "accuracy": 8.2,
+    "faithfulness": 9.0
+  },
+  "no_citation_verifier": {
+    "accuracy": 8.2,
+    "faithfulness": 9.2
+  },
+  "no_hybrid": {
+    "accuracy": 8.4,
+    "faithfulness": 9.2
+  }
+}
