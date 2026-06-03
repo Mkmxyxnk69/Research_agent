@@ -1,9 +1,9 @@
 venv/
-.venv/
+.env
 __pycache__/
 *.pyc
-.env
 .DS_Store
-output/
-*.log
-.ipynb_checkpoints/
+*.egg-info/
+.vscode/
+corpus/pdfs/
+data/chroma_db/
